@@ -1,0 +1,199 @@
+﻿The BOY 35 EVV injection molding machine complies with the criteria specified in European Standard EN 2011. If the machine is resold and relocated outside of Europe, the safety codes applicable to the new location must be observed, and the manufacturer is no longer responsible for compliance with those standards1.
+To maintain operating safety, only authorized BOY service personnel are allowed to make changes to the electrical, electronic, or hydraulic components2.
+Ensure adequate lighting and ventilation at the machine location3. The temperature range should be between 10 and 45 °C, and the air humidity should not exceed 70 %3.
+Young people over the age of 16 may only operate the BOY 35 EVV if they are working under the supervision of a qualified expert and if such employment is necessary for vocational training4. This is according to Section 5, Para. 1, VBG 7ac in Germany, and applicable national regulations must be observed in other countries4.
+Before performing any work, the entire system (injection molding machine including additional equipment) must be depressurized and de-energized, and the mold clamping plates must be open5.
+The clamping force max. of the BOY 35 EVV is 350 kN6.
+The maximum mold weight that the BOY 35 EVV can handle is 350 kg7.
+The installed total power of the BOY 35 EVV is 2300 x 1200 x 2300 mm8.
+The nozzle pressure must be reduced to 10 kN when unhardened nozzle material is used9.
+Zone 1,2,3 Cylinder heating tape is intended for cylinder heating10.
+It is generally recommended to move the mould safety area at a speed of about 5%11. The manual does not state why.
+Functions are selected by briefly touching the respective selection field, which opens a list of possible functions12. The required function is then selected from this list by a brief touch and confirmed again12.
+All set-up position values are always shown in mm with a single place after the decimal point13.
+This function element can be used to set a user output during the movement14. It is placed twice: once at the position from which the user output is to switch and once with the target position14.
+The following ejector programs can be selected: Standard sequence and Vibration ejector15.
+The amount of the ejector repetitions is entered in the set-up value stroke rate16.
+Each of the profile points 0 to 3 are intended for screwing and unscrewing17. Each profile point comprises the number of turns to two decimal places, the speed, and the pressure17.
+The set-up speed values change in a ramp-like manner between the set-up travel values18.
+From this position, the pressure-dependant switching is activated19. As a result, a pressure peak is prevented from triggering an unintentional switching upon the start of injections19.
+The screw is suspended so long as the actual temperature of a heating zone is more than 15 °C under its set-up value20. Suspension is not possible if the option "Elastomer/thermoset processing" is activated on screen page "14.30"20.
+The maximum adjustable cooling temperature is 90 °C21.
+The function of the "Temperature decrease, manual, on / off" switch is not mentioned on screen page "5.20 Heating zones, tolerances"22. It is mentioned on screen page "5.10 Heating zones"23.
+The following responses can be selected: switching off, switched on to set-up value, and temperature decrease24.
+Set-up value for entering the top scale value. The value cannot be set to be smaller than the bottom scale value25. Set-up value for entering the bottom scale value. The value cannot be set to be greater than the top scale value. However, the lower value can be negative for a better overview25.
+On this screen page, the process parameters are recorded via a selected stroke axis26. The representation corresponds to that of a storage oscilloscope26.
+For a selected measurement quantity, this screen page shows a measurement curve for each cycle without deleting the preceding cycle27. This causes all measurement curves to be seen as a bundle and the measurement quantity can be observed in terms of its repeat accuracy27.
+When the switch is activated, a reference value determination of the time is carried out over the next 10 cycles28. In addition to the switch, a counter counts the 10 cycles down to 0 and updates the reference values after the 10 cycles28.
+Results for the following individual steps are determined and issued: Close mould, Mold safety, Clamping force generation, Aggregate: drive forward, Inject, Holding pressure, Cooling time, Plasticising, Decompression, Aggregate: drive backward, Dissipate clamp pressure, Open mould, Ejector movement, and Pause time28.
+The following data carriers are available: SD (Secure Digital Memory Card), USB 1 (Universal Serial Bus, USB Slot 1 on the Procan Alpha 4 screen), USB 2 (Universal Serial Bus, USB Slot 2 on the Procan Alpha 4 screen), and NAS (Network Attached Storage systems)29.
+With the "single step" button, it is now possible to step through the handling sequence step by step30. The SingleStep function is used to test the programmed handling sequence30.
+On the screen page, the basic settings for the handling robot are carried out31.
+By color change, the key itself shows green if the associated function in the cycle is active32. If the cycle stops unexpectedly, this is the first indication for locating a problem32.
+The Procan ALPHA 4 includes an operational guidance using blinking keys33.
+Additional information can be found on screen page "14.40 User administration"33.
+The screen pages of the Procan ALPHA 4 control are largely self-explanatory34. The description in the manual is to provide the operator with an overview of the operating areas of the control system and the basic philosophy of operation34.
+The current clamping force is shown as a bar graph and numerically in kN (Kilo-Newton)32.
+The graphic image of the cylinder temperature zones and the water-cooled feed throat zone is indicated, if the selector switch "feed throat zone cooling ring" is switched on at the screen page 14.3032. If the selector switch "Rubber / Thermoset processing" is switched on there, the graphic image of the cylinder temperature zones is masked out32.
+The colors indicate the following: blue (under-temperature), green (temperature within the working area), and red (over-temperature)32.
+The ejector settings via position (standard), limit switch or time dependent are performed on the screen page "14.30 Machine data equipment 1"15.
+The actual value shows the mold stroke. The set-up value determines the ejector number of strokes15.
+The description of freely programmable output is found on screen page "11.30 Freely-programmable inputs and out-puts"35.
+When the LED button is switched on, an LED flashes in the switchgear cabinet on the PLC module36.... This function is used to troubleshoot the customer service and to check the control’s PLC modules36....
+This screen displays digital inputs and outputs, and analogue inputs and outputs36....
+ALARM 1805 indicates the PLC SD card is full39. The alarm indicator lamp H00 is activated. If the "acoustic warning signal" option is enabled, the horn P01 is also activated. The external alarm signal K072 of the injection molding unit is activated. The devices connected externally to the socket distributor are switched off. The selector signal switches to bad part. During automatic operation, the current cycle stops once the cooling time has elapsed. The mould remains closed and the injection moulding unit changes to the Stop operating mode39.
+The response for the corresponding process parameter is selected on screen page 7.3041.
+Loosen the lock nut, rotate the nut to adjust the machine height (max. 10 mm), adjust the machine stands, and re-tighten the lock nut42.
+Remove the cap at the tank and inspect the inside of the tank for cleanliness. Then, re-install the tank cap and tighten43.
+Polluted water (particle size > 0.5 mm) is to be filtered in the cooling unit prior to use44.
+Load the list of constants containing the correct flight diameter45. Mount the hydro motor for the correct flight diameter45
+The BOY 35 EVV is designed to process plastics, elastomers, silicones (liquid), thermoset plastics, or PVC. The documentation cautions against using other compounds, as they may damage the machine.
+The standard plasticizing unit has five temperature control zones: three cylinder heating tape zones, a plinth heating tape zone, and a nozzle heating tape zone. The temperature of the cylinder heating tapes is monitored using bayonet-mounted plug-in type thermocouples.
+The permitted operating temperatures are up to 300 °C for standard heating tapes, 400 °C for high-performance heating tapes, and 430 °C for the "EconPlast" plasticizing unit.
+The Procan ALPHA 4 control displays cylinder temperature zones graphically and numerically. Temperatures are color-coded: blue indicates under-temperature, green indicates the temperature is within the working area, and red indicates over-temperature. The display range covers ±15 °C (± 27 °F) relative to the set-up value.
+The manual recommends a "Water distributor with magnetic valve for intake zone" when using a plasticizing unit with a screw diameter of 12/14 mm, a vertical injection unit, or thermoplastic elastomers. A temperature probe monitors and controls the temperature in the feed throat area, ensuring uniform feeding.
+For materials needing high mold temperatures, the manual recommends temperature conditioning via a thermal sensor and controller, referencing screen number 5.30.
+The screw is blocked if the actual temperature of a heating zone is more than 15°C below its set-up value. This block is inactive if "Elastomer / Thermoset processing" is enabled on screen page "14.30".
+PC (Polycarbonate) is only restrictively suitable for processing.
+The procedure for barrel change requires safety gloves and a face guard when working on heated nozzles, barrels and screws. The user should also check the list of constants for compatibility.
+Wear cannot be avoided, since it is a system property involving erosion of a material surface due to friction. Causes include raw material composition, blends, processing properties, pressures, filler style and quantity, color pigmentation, temperature control, dwell times, throughput rate, flow velocity, decomposition products, and media like oxygen, carbon dioxide, water, and steam.
+The open nozzle is suited for high viscous thermoplastics or materials sensitive to friction heat.
+The BC nozzle is used to inject thermoplastics directly without any sprue.
+Reinforced materials are suited for the mould gate nozzle with shut off mechanism.
+After inputting data like projected area, material, wall thickness, flow path, and flow behavior characteristics, the necessary clamping pressure can be calculated by pressing the start key. The manual notes these calculated values are suggested and should be verified during the injection cycle.
+Different materials require specific nozzles. For example, thermoset plastics require nozzles with a specific radius and screw diameter. Open nozzles are suitable for high viscous thermoplastics or materials sensitive to friction heat.
+On the screen page "7.10 Production data", the material weight for a cycle can be entered, enabling calculation of material throughput.
+The technical data includes screw retraction force, nozzle pressure force, and nozzle stroke. The optimal values of these depend on the material being used.
+The maximum shot weight is calculated using the formula: max. shot weight = density ρM x theoretical stroke volume.
+Classifications of wear include abrasive wear, flushing wear, erosion, corrosion, and pitting corrosion. These are influenced by the type and chemical composition of the raw material, the presence of fillers, and the processing conditions.
+Ensure adequate lighting and ventilation at the machine location. Consult the plastic manufacturers' data sheets to understand if a plastic generates hazardous gases during processing.
+The analytical parameters should remain within certain limits to maintain water quality. Polluted water should be filtered prior to use to protect the Y06T water valve.
+Only mineral oil-based hydraulic fluids with highly active additives that do not affect lead-containing bearing materials should be used. The fluids must meet or exceed the requirements of VDMA 24318 and DIN 51524, part 2 for HLP hydraulic oils.
+Use cleaning granulate and observe the manufacturers' recommendations, since these granulates depend on the type of plastic being processed.
+The clamping unit forms the tool installation space and is used for the safe application of the tool traction power. The design of the tools influence any residual risks, and the user is responsible for safety.
+Only specified plastics, elastomers, silicones (liquid), thermoset plastics, or PVC should be processed; other compounds may damage the machine. Incorrect loading of a list of constants leads to erroneous technical data, false settings, excessive injection pressures and damage to the moulding machine.
+Only use approved materials, ensure staff are experienced, and that operators have received instruction on the machine and safety.
+Technical data provides information on screw speeds, noting some differences depending on the motor being used.
+The following analytical parameters should remain within the limits specified if water is used as the circulating medium in heat transfer systems: a pH between 6.5 and 8.5, a max of 150 mg/l for chloride, and a max of 250 mg/l for sulphate.
+The data sheets provided by the plastic manufacturers will indicate which plastics generate hazardous gases during processing.
+The formula to calculate the max shot weight is: max. shot weight = density ρM x theor. stroke volume.
+PS, SB, SAN, ABS, PE, PP, PA only limited or materials with flame retardants.
+The oil must be analyzed approx. every 5000 operating hours to determine whether the oil quality still complies with the HPL specification. The oil should be exchanged at least every 20,000 operating hours if an analysis report is not available.
+The recommended predrying conditions for SAN (Luran) are 3 hours at 80°C, for ABS (Novodur W, Terluran) are 3 hours at 85°C.
+The recommended processing data includes information on fluidity and back pressure.
+The documentation lists different types of nozzles including NV (conditionally recommended), AC (shut off nozzle), BC (shut off nozzle), O (open nozzle), and VK (prechamber nozzle).
+The documentation provides identification characteristics for thermoplastics, including melting points.
+Identification characteristics for thermoplastics include whether they are opaque or transparent, their ability to be marred by a fingernail, breakage behavior (no fracture, white fracture, brittle fracture), burning behavior (sooting, clear flame, self-extinguishing), and vapor smell (candle wax, horn-like, styrene, pungent, fruity, phenole, tarry).
+Wear and tear on the screw and barrel is affected by the type and chemical composition of the raw material, any raw material blends, and the properties of the raw material during processing.
+The style and quantity of filler affect the wear of plasticizing units.
+It is recommended that the mold temperature is controlled through a thermal sensor and an appropriate controller.
+Cycle time is influenced by cooling time, and the speed at which this occurs is affected by the thermal conductivity of the material.
+The recommended processing data includes mold temperatures for different materials.
+This information is not present in the source text, but it is logical to say that the material's shrinkage is related to mold design and processing parameters.
+For materials sensitive to friction heat, the open nozzle is suitable.
+It is recommended to only use hard-to-draw-in materials in a pre-dried condition. This prevents bridging caused by moisture in the intake channel.
+This information is not available in the source text.
+This relates to the causes of wear, including the type and chemical composition of the raw material.
+For the processing of so-called "transition thermoplastics" and "technical thermoplastics", the use of high wear resistant plasticising units is urgently recommended. For the processing of "heavy-duty thermoplastics", the use of high wear resistant plasticising units is essential.
+The maximum water pressure is 10 bar.
+If "Elastomer / Thermoset processing" is activated on screen page "14.30", the graphic representation of the barrel and nozzle heating is hidden and the mould is shown. The screw block is ineffective if, on screen page "14.30", the option "Elastomer / Thermoset processing" has been activated.
+The maximum mold size is 72” x 48” (1828mm x 1219mm)1.
+The maximum clamp frame opening is 73” x 49” (1854mm x 1244mm)1.
+The machine requires 480V, 60 Hz, with a full load amperage of 180 Amps and a 3-Phase Disconnect size of 250 Amps1.
+The enclosure type is NEMA12 SCIR 5 KA1.
+The main regulator should be set to 80 Psi / 5.51 Bar / 5.62 k/cm21.
+The eject regulator should be set to a maximum of 15 Psi / 1.034 Bar / 1.05 k/cm21.
+The IR eye regulator should be set to 5 Psi / .0344 Bar / .035 k/cm22.
+The maximum continuous noise level is 74 dBA2.
+The maximum tool weight for either the top or bottom platen is 1500 lbs2.
+The assembled weight is 12000 lbs2.
+The equipment operates correctly between +5°C and +40°C2.
+The equipment operates correctly within an environment at 50% RH, +40°C2.
+This equipment will operate correctly up to 1000m above mean sea level3.
+The equipment can withstand transportation and storage temperatures of -25°C to +55°C, and for short periods up to +70°C3.
+Operators must be trained in the practice and use of all safety features of the equipment, such as instructions on all aspects of forming and proper method of platen set up and use of oven infrared sensor, safety/sag eye, start up/ shut down and emergency stop/ shut down procedure4.
+The Startup Screen is the first active screen viewed upon entry into the system5.
+There are two buttons, “PRESS TO START” and “SYSTEM SHUTDOWN”5.
+By touching the “PRESS TO START” button on the screen, the HMI will change to the “MAIN MENU SCREEN”5.
+The Main Menu is used to access either the Set-Up Mode or Automatic Mode6.
+The system includes Vacuum Form Bottom, Vacuum Form Top, Plug Assist Bottom, Plug Assist Top, Billow Cavity Mold Bottom, Billow Cavity Mold Top, Snap Back From Bottom, Snap Back From Top, Billow Male Mold Bottom, Billow Male Mold Top7.
+The C-Flex technique is utilized to create custom forming techniques8.
+There are 13 separate timers available9.
+The Global Compensation function allows the user to modify the top or bottom oven as a whole by increasing or decreasing the value of the oven percentages8.
+NEVER, enter the operating area of the machine while the machine is in the automatic mode or while someone is within access of the controls without disabling the machine power10.
+NEVER, attempt to circumvent the guarding of this machine, or operate this machine without its guards11.
+NEVER, install tooling, clean, repair, or adjust this machine without being certain that all areas are clear, and that the power source is locked out11.
+NEVER, install, repair, or load the clamp frames of this machine with your hands in the clamping area. When installing or repairing clamp frames release all air pressure prior to handling them11.
+NEVER, perform maintenance on the platen assembly without blocking and supporting them. Be sure to remove all blocking before returning to operation11.
+NEVER, place your hands or any other portion of your body in between the platens, molds or around any of the revolving mechanisms of the machine (i.e.: chain, gear rack sprockets and carousel)12.
+ALWAYS, maintain an awareness level that corresponds with the operation of machinery. Also, remember that this machine is equipped with Ovens and contains HOT surfaces12.
+Assuming the thermoformer has good sheet to work with, the next most important factor is its proper heating13.
+Computer controlled multi-zoned ovens are now capable of profile heating which has the ability to produce a consistent sheet temperature from the perimeter to the center, reduces sag, uses less energy and decreases the heating and cooling cycle times13.
+To attain stress free, top quality parts, very rapid vacuum is normally used. All vacuum systems should have a rated pressure of 29 inches of mercury (Hg)14.
+To consistently achieve quality parts at an economical cost15.
+Molds with cast-in cooling, machined cooling channels, and cooling pins or cooling plates must be used15.
+They should be used only for very special projects and very short runs because otherwise, cost and quality suffer greatly15.
+The most common serious problem encountered is sheet or film from extrusion runs in which resin, additives, and regrind are not consistently and thoroughly mixed, so that materials from the beginning, the middle, and the end of the runs are not identical16.
+Typical gauge tolerance is plus or minus 5%, various colors accept heat differently and each compound can absorb varying amounts of moisture16.
+Ideally, heat should be removed from both sides of the part at the same rate and in the same manner17.
+Trimming parts at the same temperature each time helps tremendously in maintaining size tolerance18.
+When close tolerances are required in the finished part, it is essential that it be trimmed at the same time and temperature after removal from the mold, or after all the post-shrinkage has occurred18.
+Clean, uncontaminated trim that has not been degraded or allowed to gather dust makes far better sheet when recycled, resulting in fewer problems for the extruder and ultimately the thermo-former18.
+When the core is below the processing temperature, excessive stresses may be created in the formed part, producing negative results such as warping and lower impact strength13.
+Then the faster the vacuum, the better the material distribution, since it does not have time to cool as it is formed, This produces a minimum of internal stresses and parts with the best possible physical properties19.
+The set temperature is the temperature at which the thermoplastic sheet hardens and can be safely de-molded20.
+Lower processing limit is the lowest possible temperature for the sheet before it is completely formed. Parts formed at or below this limit will have severely increased internal stress; another reason for rapid vacuum or forming pressure20.
+Properties such as impact and tensile strengths21.
+Normal forming temperature is the temperature the core of the sheet must reach for proper forming under normal circumstances22.
+Upper limit is the temperature at which the sheet begins to degrade or decompose. It is crucial that the sheet stay below this temperature22.
+Any material purchased should be accompanied by written specifications to be reviewed with sheet and resin vendors23.
+Do not use more than 45% regrind, if possible24.
+From the Main Menu Screen, by touching the touch screen button labeled “SETUP” it will take the operator to the Setup Screen. This is where all manual operations of the machine are performed, as well as setting up jobs to run in automatic mode25.
+When a push button is in the OFF state the background color will be RED26.
+When a push button is in the ON or ACTIVE state The background color will be BLUE26.
+Selecting this function enables the operator to activate the Platen Automatic Jog Function for jogging either or both of the platens during retracting process for special thermoforming processes27.
+Jog On Time, Jog Off Time, and Number of the Jogs28.
+During Set-Up, placement of a mold, its pre-draw box or assist, or even inspecting or working on a mold or an assist, it is more practical and convenient to have the car temporarily away from the form station29.
+Controls the amount of time that the air eject valve is active during each pulse in pulse mode, the amount of time in between each air eject pulse when pulse mode is active, and the number of timed pulses that will happen when pulse mode is active30.
+All operator adjustable timer values are set from this screen31.
+Used to provide time for platen movement, vacuum, air, cooling, air eject, and any other thermoforming process in the form station. This is equal to the total forming cycle time32.
+The Top Oven screen shows the values of zone numbers 1 through 2933.
+The user is able to easily toggle back and forth between the top and the bottom oven screens, or return to SET UP screen by touching the RETURN button33.
+This is accomplished by touching an oven zone on the screen, then enter the desired oven zone percentage, and press the enter key34.
+Global Compensation means that you adjust the intensity of each zone by a percentage from each individual zone’s assigned value35.
+The operator may select either “Single Overlay” or “Dual Overlay” at the lower left portion of the screen to view the exact area the sheet will cover when it is in the oven36.
+The AUTO SHADE function can be used to automatically enter a heating profile for the oven that is based on the size of the sheet entered into the length and width boxes along with the AUTO SHADE TOP VALUE37.
+The button allows the operator to change all of the values of the oven to zero at one time38.
+This screen is accessed by touching the LOAD/SAVE pushbutton from the SET UP screen to save and load 256 separate job files on the USB storage plugged into the HMI39.
+All the pertaining current sub-directories must be edited, entered and active in the controller40.
+Once the STATUS DISPLAY shows the READY message the user can resume using the machine41.
+A job can be selected and recalled by searching for the job by entering the corresponding file number into the SELECTED JOB NUMBER data entry box or by entering the job name into the SEARCH function data entry box42.
+Whether searching for a job via the file number or name, the job must then be selected/highlighted in the directory and then loaded to the machine before running by pressing the LOAD button42.
+Pressing this button will SAVE all current data , timer values, oven values, encoder values, to the ACTIVE JOB43.
+This screen lists certain conditions that must be met before the machine can be placed in AUTO MODE44.
+Green indicates that no fault is present44.
+Red indicates that this condition is not met, or a fault has occurred44.
+The current state of all machine inputs is displayed on this screen as a visual aid45.
+The OUTPUT screen is a visual aid that lists all the OUTPUTS on the machine as well as indicators showing the state of the outputs46.
+The PLATEN POSITIONS SCREEN is where the user can find the actual positions of the top and bottom platens as well as data entry boxes to enter job specific values47.
+The ONLINE HELP SCREEN is where the user can access The FACTORY MAINTENANCE SCREEN for adjustment of the MCF index car positions or the START UP SCREEN for system shutdown of the HMI program48.
+This screen is used to set the pin numbers and functions for the four different types of users49.
+From the Main Menu Screen, by having certain conditions met and touching the touch screen button labeled “AUTO” it will take the operator to the AUTOMATIC SCREEN to perform all automatic operations of the machine, as well as running production jobs50.
+When the start buttons are pressed to initiate a cycle, the bottom platen will extend to the pre programmed load position and stop. This allows the operator to use the mold as a support while loading a new sheet to be formed51.
+When activated, all timers and future movements of the machine are halted52.
+This function is used to terminate control power when the safety eye beam is broken by the sag of a hot sheet53.
+This function is used to terminate the heating cycle when in AUTO mode. When the sag eye beam is broken by the sag of a hot sheet the heating timer will terminate and index the sheet into the form station54.
+C Flex programmable software allows the user to create their own forming sequence or a variation of one of the pre-programmed sequences55.
+The forming sequence created may contain up to 24 individual steps and can be stored as a C Flex file55.
+Use of more than 1 Primary Function in each step would lock the processor, and the sequence will stop at that step, unless it is corrected56.
+The user must first select the functions that will be used in the forming process by selecting the description of that function, which will be highlighted in DARK BLUE and the text will change from black to white57.
+Once a function is enabled the user will need to set the START TIME and END TIME58.
+The setup sheets that have been provided to assist you in maintaining a hard copy of any and all information that may be required to repeat the production of a particular part59.
+The top of the setup sheet covers the part name and job number as well as the type of material and gauge of material59.
+The center section of the setup sheet covers all of the timers and optional features that might be used in the production of a part59.
+The bottom of the setup sheet covers the position settings on the thermoforming machine as well as which ball valves are being used and how much they are opened60.
+Follow daily lubrication requirements61.
+Shut down the MAIN POWER62.
+Daily, weekly, and monthly maintenance63.
+Planned preventative maintenance such as cleaning the outside of oil bowl, moisture collector and gauge; ensuring oil level is correct and moisture collector is empty; and examining for air leaks and correct operating setting of 80 PSI64.
+Examine elements for foreign matter and broken / cracked elements and terminal connections for signs of corrosion and / or overheated connections65.

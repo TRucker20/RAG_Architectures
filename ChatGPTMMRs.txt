@@ -1,0 +1,198 @@
+﻿The BOY 35 EVV adheres to the European standard EN 201, which specifies safety requirements for injection molding machines. If the machine is moved outside of Europe, it may no longer comply with local safety regulations and may require modifications or additional safety measures to conform to regional safety standards.
+Only qualified and authorized personnel are permitted to make changes to the electrical, electronic, or hydraulic components of the BOY 35 EVV. Unauthorized modifications may compromise the machine’s safety and operational integrity.
+The machine should be operated in a controlled environment with a temperature range of 18°C to 22°C (64°F to 72°F) and relative humidity of 40% to 60%. The location should be free from excessive dust, vibration, and direct exposure to sunlight or moisture to ensure optimal performance and longevity.
+Young people under the age of 18 are generally prohibited from operating the BOY 35 EVV unless they are under direct supervision as part of vocational training and have received appropriate safety instruction.
+Before performing any work on the machine or its additional equipment, the following steps must be taken: Turn off the machine. Disconnect it from the power supply. Ensure that all moving parts are at rest. Place a warning sign to indicate maintenance is in progress.
+The maximum clamping force of the BOY 35 EVV is 350 kN (35 tons).
+The maximum mold weight that the BOY 35 EVV can handle is 280 kg per mold half.
+The installed total power of the BOY 35 EVV is 11.2 kW.
+When using unhardened nozzle material, the nozzle pressure should be reduced to a maximum of 1000 bar to prevent damage to the material and ensure proper operation.
+The Zone 1, 2, 3 Cylinder heating tape is used to maintain the required processing temperature for the plastic material being injected. It ensures that the material remains in a molten state for consistent and efficient molding.
+A slow speed (below 10 mm/s) is recommended when moving the mold safety area to prevent accidental injury, ensure precision alignment, and avoid damage to the mold or machine components.
+Functions on the Procan ALPHA 4 control system are selected using a touchscreen interface with clearly defined function icons. Operators navigate menus and select machine operations via an intuitive graphical user interface.
+The set-up position values are displayed on the Procan ALPHA 4 screen in numerical form, allowing operators to adjust and fine-tune machine settings in real-time for optimal operation.
+The "Wait at Ejector Position" function ensures that the ejector remains in position until the next cycle command is received. This prevents malfunctions and ensures proper part removal before the next injection cycle begins.
+The BOY 35 EVV offers multiple ejector programs, including:Single stroke ejector Multiple stroke ejector Pulsed ejector operation Ejector forward hold position Ejector retraction delay These programs allow flexibility in part ejection based on specific mold and material requirements.
+The amount of ejector repetitions is entered directly into the Procan ALPHA 4 control panel under the ejector settings menu, specifying the required number of strokes.
+These profile points define different movement stages of the screwing device, ensuring proper alignment and torque application during the screwing process.
+Set-up speed values can be adjusted proportionally within the Procan ALPHA 4 system settings, depending on the required precision and safety.
+By adjusting the pressure ramp-up settings and ensuring proper pre-injection hold settings, the operator can mitigate unintended pressure spikes.
+An automatic temperature warning or error message is triggered, prompting the operator to check the heating system.
+The maximum adjustable cooling temperature is 40°C to prevent overheating and material degradation.
+This switch allows manual activation or deactivation of a controlled temperature decrease to stabilize heating elements.
+Options include immediate stop, controlled stop with cooling, and standby mode to prepare for the next cycle.
+These values allow operators to adjust and analyze temperature trends for process optimization.
+It provides real-time stroke-based measurement data to optimize machine movement and performance.
+It visualizes process variations and ensures operations stay within predefined tolerance limits.
+The system collects detailed cycle timing data for better process monitoring and troubleshooting.
+This page presents average cycle time, deviations, and efficiency metrics for production optimization.
+The machine supports USB, network drives, and internal storage for saving and transferring data.
+This button allows step-by-step execution of robot movements for precise debugging and adjustments.
+This screen page allows the operator to configure the basic movement parameters and safety settings for handling devices integrated with the BOY 35 EVVA color change in the keys provides visual feedback, indicating active functions, warnings, or required user actions.
+The system highlights or illuminates the relevant keys on the touchscreen interface, guiding the operator through necessary actions.
+User administration details can be accessed under system settings in the Procan ALPHA 4 control menu.
+It provides an intuitive user interface for controlling, monitoring, and optimizing the BOY 35 EVV’s operations.
+The current clamping force is displayed on the Procan ALPHA 4 screen in the machine parameters section.
+It is displayed on the Procan ALPHA 4 control panel, typically under the heating system settings.
+Green: Normal temperature range.Yellow: Approaching limit.Red: Exceeded temperature threshold.
+Ejector settings are configured on screen page 2.10 within the Procan ALPHA 4 control system.
+Actual value: Displays the current ejector position. Set-up value: Defines the target position for operation.
+It is located in the Procan ALPHA 4 user manual under programmable logic settings.
+These buttons provide status indications and allow quick manual activation or deactivation of inputs/outputs.
+It shows real-time status of digital and analog input/output signals for troubleshooting and monitoring.
+A memory full alarm is triggered, preventing further data logging until space is cleared.
+The system triggers a temperature alarm, and the affected channel may be automatically shut down to prevent overheating.
+Position the machine on a stable foundation.Use a precision spirit level to check for levelness. Adjust the leveling feet to ensure even weight distribution. Secure the machine in place and recheck alignment.
+Ensure the hydraulic tank is clean. Use the recommended hydraulic fluid. Check for any contaminants in the system. Slowly fill the tank while monitoring for leaks.
+Regularly inspect for corrosion and wear. Use filtered water to prevent clogging. Ensure proper drainage after machine shutdown.
+Clean all mating surfaces. Check the alignment of the plasticizing unit. Lubricate necessary components. Tighten all mounting bolts to the specified torque.
+Thermoplastics such as PP, PE, PC, PA, ABS, and POM. Some grades of thermosets and elastomers, depending on configuration.
+Zones: Feed, Compression, and Metering. Temperature is regulated via Procan ALPHA 4 PID controllers.
+Standard: 180°C to 250°C. High-performance: 250°C to 350°C.
+Displays real-time temperature readings. Provides alarm warnings if temperature deviates.
+Should be maintained between 40°C to 80°C to avoid premature melting or clogging.
+Uses a high-performance temperature control unit. Provides separate mold heating circuits.
+Can cause poor plastic flow and incomplete mold filling. May lead to short shots or material degradation.
+Use dehumidified drying. Ensure mold temperatures between 80°C and 120°C.
+Purge the existing material. Clean the barrel thoroughly. Match the new barrel material to the intended plastic grade.
+Regular maintenance and lubrication help reduce wear. Causes: High filler content materials, excessive heat, and improper screw settings.
+High-viscosity materials may cause drooling. Low-viscosity materials can leak through the nozzle prematurely. Requires adjusting the nozzle opening pressure accordingly.
+Best suited for non-reinforced thermoplastics and materials with low viscosity. Ideal for materials that require consistent flow without clogging.
+Reinforced materials, especially glass-filled plastics, cause higher abrasion and wear. Use hardened screws and barrels to minimize degradation. Ensure higher processing temperatures to avoid material degradation.
+Procan ALPHA 4 control system provides real-time clamping pressure data. Detailed settings available in the BOY 35 EVV technical manual.
+High-viscosity materials require larger nozzle diameters. Heat-sensitive materials benefit from temperature-controlled nozzles. Reinforced materials require wear-resistant nozzles.
+Shot weight can be entered via the Procan ALPHA 4 interface under injection settings.
+Screw retraction force: Affects backpressure and mixing quality. Nozzle pressure force: Influences material flow and prevents leakage. Nozzle stroke: Ensures proper sealing and prevents drooling.
+Lower density materials allow for larger shot weights. Higher density materials limit shot capacity due to weight constraints.
+Abrasive wear: Caused by glass-filled and reinforced materials. Adhesive wear: Occurs when processing sticky or high-friction materials. Chemical wear: Results from corrosive materials or improper cleaning.
+Ensure proper ventilation and fume extraction. Use gas-resistant seals in the plasticizing unit. Wear personal protective equipment (PPE).
+High water hardness leads to scale buildup in cooling channels. Use demineralized or softened water to maintain system efficiency. Regularly descale and flush the cooling system.
+Recommended fluids: ISO VG 46 or VG 32 hydraulic oils. Should have high thermal stability, anti-wear properties, and oxidation resistance.
+Purge the system with an appropriate cleaning granulate. Disassemble and clean manually if switching between incompatible materials. Recommended cleaning granulates: Glass-fiber reinforced purging compounds.
+Mold cooling efficiency influences cycle time. Proper venting prevents trapped gases. Material-specific shrinkage rates must be considered.
+Excessive wear on components. Incomplete part formation or short shots. Machine malfunctions due to improper pressure settings.
+Consider abrasiveness and corrosiveness of the material. Use proper temperature and pressure settings. Avoid materials that release toxic fumes without appropriate safety measures.
+PP, PE: Medium speed, low torque. ABS, PC: Low speed, moderate torque. PA, POM: Medium-high speed, high torque. Reinforced materials: Low speed, high torque to reduce wear.
+PP, PE: Rapid cooling at 20-40°C. PC, PA: Controlled cooling at 80-120°C. POM, ABS: Gradual cooling to prevent warping.
+Some materials release styrene, formaldehyde, or cyanide when overheated. Proper ventilation and filtration are required for safety.
+Formula: Shot weight (g) = Screw volume (cm³) × Material density (g/cm³).
+Requires higher processing temperatures. May cause corrosion, requiring special coating on the screw/barrel.
+Analyze every 6 months. Should meet ISO VG 46 standards.
+SAN: 80°C for 2-3 hours. ABS: 85°C for 3-4 hours. PMMA: 90°C for 4-5 hours.
+High-fluidity materials require low back pressure. Low-fluidity materials require higher back pressure for proper homogenization.
+NV: Standard thermoplastics. AC: Heat-sensitive materials. BC: Low-viscosity materials. O: Open nozzles for high-flow materials. VK: Valved nozzles for controlled injection.
+Lower melting points require lower processing temperatures to avoid degradation. Higher melting points require longer heating zones and higher energy input.
+PP, PE: Blue flame, paraffin-like odor. ABS: Black smoke, rubbery smell. PC: Self-extinguishing, sharp odor.
+Reinforced and filled materials increase wear. Higher melting temperatures accelerate degradation.
+Glass fibers: High abrasion. Flame retardants: Chemical corrosion. Mineral fillers: Moderate wear increase.
+High shrinkage materials (PP, PE): Slow cooling. Heat-sensitive materials (PVC, POM): Controlled heating and cooling cycles.
+Higher conductivity (e.g., metals, PA): Faster cooling and shorter cycles. Lower conductivity (e.g., PP, PE): Slower cooling, requiring extended cycle times.
+PP, PE: 20-50°C ABS, PS: 40-70°C PA, POM: 80-120°C PC, PMMA: 80-130°C Elastomers: 150-200°C
+High shrinkage materials (PP, PE) require larger mold cavities to compensate. Materials with low shrinkage (PC, PMMA) need precise mold dimensions to prevent warping. Shrinkage also affects cooling rates and demolding.
+Use lower screw speeds and gentle back pressure. Ensure adequate cooling in the plasticizing unit. Select low-friction coatings for screws and barrels.
+Hygroscopic materials (PA, PC, ABS) must be predried to avoid moisture defects. Improper drying can lead to bubbles, silver streaks, or weak parts. Processing temperature and venting should be adjusted accordingly.
+Inconsistent quality due to degradation. Contamination from foreign particles. Can be managed by limiting regrind percentage and filtering contaminants.
+Corrosive materials (PVC, flame-retardant compounds) require hardened or coated components. Cleaning agents must be compatible to avoid damage to seals and barrels.
+Plasticizing units designed for high-abrasion materials (glass-filled, flame-retardant plastics). Made of hardened steel or ceramic coatings to extend service life.
+Maximum allowable cooling water pressure is 10 bar. Exceeding this pressure may damage seals and cooling circuits.
+Elastomers: Require higher mold temperatures and longer cycle times. Thermosets: Need precise heating control to avoid premature curing. Special injection parameters to prevent material degradation.
+The maximum mold size is 48 inches by 96 inches.
+The maximum clamp frame opening size is 52 inches by 100 inches.
+The machine requires 480V, 3-phase, 60 Hz power with a 100-amp service.
+The machine uses a NEMA 12-rated electrical enclosure for protection against dust and debris.
+The recommended setting is 80 PSI for optimal machine performance.
+The eject regulator should be set at 60 PSI to ensure proper part ejection.
+The IR eye regulator should be set at 40 PSI to maintain accurate sheet positioning.
+The machine produces a maximum continuous noise level of 85 dB(A).
+The maximum tool weight is 2,500 lbs per platen.
+The assembled weight of the equipment is approximately 12,000 lbs.
+The equipment should be operated in a temperature range of 50°F to 100°F (10°C to 38°C).
+The machine operates best within a relative humidity range of 30% to 70%.
+The machine is designed to operate at altitudes up to 6,600 feet (2,000 meters) above sea level.
+The recommended transportation and storage temperature range is -20°F to 120°F (-29°C to 49°C).
+Operators should be trained on: Machine safety procedures Thermoforming process and settings Troubleshooting common issues Routine maintenance and cleaning Emergency stop procedures and lockout/tagout (LOTO) protocols
+The first screen displayed is the Startup Screen, which provides system initialization information.
+The two options are “Run” and “Setup”, allowing the user to either start production or access machine configuration settings.
+To access the Main Menu Screen, press the “Menu” button on the HMI.
+The Main Menu Screen includes options such as: Forming Sequence Settings Oven Control Clamp Frame Control Vacuum and Pressure Settings Diagnostics and Alarms
+The system includes sequences such as: Standard Forming Snapback Forming Plug Assist Forming C-Flex Forming
+The C-Flex sequence is designed to provide adjustable forming flexibility, allowing better adaptation to different material thicknesses and mold complexities.
+There are 10 programmable timers that control different functions such as heating time, forming delay, and cooling duration.
+The Global Compensation feature automatically adjusts heating elements to ensure consistent material temperature and uniform forming.
+Always use personal protective equipment (PPE) and ensure that emergency stop buttons are accessible before starting operations.
+Never bypass or disable safety interlocks, light curtains, or emergency stop functions, as this can lead to serious injuries.
+Lockout is required before maintenance, repair, or servicing of any electrical, pneumatic, or mechanical components.
+Ensure that clamp frames are securely locked in position before adjusting them, as sudden movements can cause injuries.
+The platen must be completely powered down, and the lockout/tagout procedure must be followed before servicing.
+There is a risk of pinching, crushing, and entrapment injuries due to high-force movements of the machine components.
+Be aware of hot surfaces on the ovens, moving platens, and clamp frames, which can cause burns or mechanical injuries if improperly handled.
+Proper heating control is the most critical factor as it ensures uniform material softening and prevents defects.
+Profile heating adjusts heat distribution across different zones of the sheet, ensuring consistent material thickness and improved forming accuracy.
+Vacuum systems should reach at least 27 inHg (inches of mercury) to ensure quick and complete forming while eliminating air pockets.
+Aluminum molds provide efficient heat transfer, allowing precise temperature control and consistent part formation.
+They can integrate cooling channels, sensors, and heating elements for better cycle time control and part consistency.
+These materials lack heat conductivity, leading to uneven cooling, warping, and inconsistent part quality.
+Inconsistent heating, vacuum leaks, improper mold release, and material shrinkage are among the most common issues.
+The standard tolerance is typically ±10% of nominal thickness, depending on material type and manufacturer.
+Uniform air circulation and contact cooling using temperature-controlled molds ensure consistent cooling rates.
+Consistent temperature trimming ensures dimensional accuracy and prevents warping or uneven shrinkage.
+When working with high-shrinkage materials, consistent trimming prevents distortion and ensures part stability.
+Proper collection reduces material waste, improves recycling efficiency, and lowers production costs.
+A cold core can cause surface cooling before full forming, leading to incomplete part formation and material stress.
+Rapid vacuum application prevents premature cooling, ensuring sharp details and complete mold filling.
+The set temperature is the predefined target temperature that the material must reach before forming, ensuring optimal flow and consistency.
+The lower processing limit is the minimum temperature at which a thermoplastic sheet can be effectively formed without excessive stress or defects. It varies by material but is typically around 250°F to 280°F (121°C to 138°C) for most plastics.
+Bi-axial orientation enhances strength, clarity, and impact resistance, making the material more durable and suitable for higher-performance applications.
+The normal forming temperature varies based on material type but typically falls between 300°F and 400°F (149°C to 204°C).
+The upper processing limit is the maximum temperature at which a thermoplastic sheet can be heated before it degrades. This is usually around 500°F (260°C) depending on the polymer.
+Material certification sheets should be included to ensure compliance with quality, performance specifications, and regulatory requirements.
+Regrind is acceptable when it does not compromise material integrity, structural strength, or surface finish, and when properly blended with virgin material.
+The Setup Screen allows operators to configure machine parameters including heating zones, vacuum settings, and forming sequences.
+A red background indicates a fault condition, emergency stop, or a critical warning requiring immediate attention.
+A blue background signifies an active process or enabled function, such as heating or vacuum control.
+This function allows precise incremental movement of the platen for setup, alignment, and mold adjustment.
+The three independent variables are:Jog speed Retract distance Acceleration/deceleration settings
+It allows manual control of platen motion to override the default motion control functions.
+This controls the timing, pressure, and duration of air pulses used to eject parts from the mold.
+The Timers Screen allows adjustment of cycle timing, delay periods, and sequential process timing for forming operations.
+The Forming Timer controls the duration of the forming process, ensuring optimal material shaping and cooling for consistent part quality.
+The Top Oven Screen is used to monitor and adjust heating parameters for the upper heating elements in the thermoforming process.
+The user can toggle between manual and automatic heating modes, as well as zone-specific temperature settings.
+The desired percentage value is entered via the touchscreen keypad, allowing precise control over heating distribution.
+Oven compensation automatically adjusts heating output to account for ambient temperature changes and material inconsistencies, ensuring uniform heating.
+The oven overlay option provides a visual representation of heat distribution, helping operators fine-tune temperature zones for optimal forming.
+The AUTO SHADE function automatically adjusts heating intensity based on material opacity and thickness, improving heating efficiency.
+The button allows the operator to enable or disable specific heating zones, optimizing the heating pattern for different materials.
+The Job Load Save Screen is used to store, retrieve, and manage job settings, allowing repeatability and efficiency in production.
+The sub-directories must be properly labeled and structured to ensure easy retrieval and avoid conflicts with existing job files.
+The STATUS DISPLAY indicates when the machine is ready, showing messages like “Ready for Operation” or “Cycle Complete”.
+A job can be selected and recalled by navigating the Job Load Save Screen, choosing the desired job, and pressing LOAD.
+Pressing the LOAD button retrieves the saved job settings and applies them to the machine for consistent production.
+Pressing the SAVE button stores the current machine settings under a job name for future use.
+The Fault Status Screen provides real-time diagnostic information, showing any system errors, malfunctions, or required maintenance.
+A green indicator means that the system is operating normally with no active faults, and the machine is ready for production.
+A red indicator signifies a critical error or fault condition that requires immediate attention to prevent machine damage or unsafe operation.
+The Input Diagnostics Screen displays real-time status of all input signals, helping the operator troubleshoot sensor and switch inputs.
+The Output Diagnostics Screen shows the status of all output signals, including actuators, relays, and solenoids, ensuring proper system function.
+This screen allows users to view and adjust platen movement, set specific positions, and monitor stroke limits for precise forming operations.
+The Online Help Screen provides quick access to troubleshooting guides, machine documentation, and instructional support.
+The Password Screen is used to restrict unauthorized access, allowing only approved personnel to change machine parameters.
+The Automatic Screen enables the fully automated cycle mode, where the machine follows pre-programmed sequences without manual intervention.
+The LOAD SUPPORT function maintains consistent material positioning by compensating for sheet sagging during the forming process.
+The PAUSE button temporarily stops the automated cycle, allowing adjustments or inspections before resuming the process.
+The SAFETY eye monitors the forming area for obstructions, preventing unsafe operation if objects or personnel are detected.
+The SAG eye detects excessive sheet sagging during heating and triggers adjustments to prevent improper forming.
+C Flex software allows operators to customize forming sequences with precise control over timing, movement, and pressure settings.
+A forming sequence in C-Flex can contain up to 100 individual steps, enabling highly detailed process customization.
+The system will reject the sequence or create conflicts, as only one Primary Function is allowed per step to ensure logical execution.
+In a TIMEFLEX sequence, all timing parameters become adjustable, allowing users to fine-tune air, vacuum, and platen movements for optimal cycle performance.
+Once a function is enabled in TIMEFLEX, the user must set the time duration and sequence order to ensure precise timing of the forming process.
+Setup sheets help operators document and standardize machine parameters, ensuring repeatability and efficiency in production runs.
+The top of the setup sheet covers job identification details, including the job name, material type, and machine settings.
+The center section of the setup sheet covers detailed forming parameters, such as heating times, vacuum settings, and platen positions.
+The bottom of the setup sheet includes troubleshooting notes, operator comments, and post-run evaluations to improve future cycles.
+Operators should follow: Pre-operation safety checks Machine warm-up sequences System diagnostics and calibration Material loading procedures
+The last step is to turn off the main power switch and secure the area, ensuring that all moving parts have come to a complete stop.
+The three types of maintenance are: Preventive Maintenance – Routine inspections and servicing. Corrective Maintenance – Repairs after failures or issues. Predictive Maintenance – Monitoring conditions to prevent breakdowns.
+Checking lubrication levels, inspecting heating elements, and ensuring vacuum lines are clear to maintain optimal machine function.
+Oven elements should be examined for burnout, uneven heating, and contamination, ensuring consistent heating performance and longevity.
